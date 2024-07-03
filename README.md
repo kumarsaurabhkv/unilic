@@ -5,6 +5,7 @@ Verified to be working with:
     
 * 2021.3.23 OSX
 * 2022.2.16 Win
+* 2023+
 
 Process:
 
